@@ -1,0 +1,1058 @@
+{
+  "Vowels_1a": {
+    "ph": "iː",
+    "similar": "亿(拖长)或E(字母)",
+    "words": [
+      {
+        "name": "sheep",
+        "html": "sh<b>ee</b>p",
+        "ph": "ʃ<b>iː</b>p",
+        "only_uk": 0
+      },
+      {
+        "name": "read",
+        "html": "r<b>ea</b>d",
+        "ph": "r<b>iː</b>d",
+        "only_uk": 1
+      },
+      {
+        "name": "key",
+        "html": "k<b>e</b>y",
+        "ph": "k<b>iː</b>",
+        "only_uk": 0
+      }
+    ]
+  },
+  "Vowels_2a": {
+    "ph": "ɪ",
+    "similar": "一和叶(中间音)",
+    "words": [
+      {
+        "name": "ship",
+        "html": "sh<b>i</b>p",
+        "ph": "ʃ<b>ɪ</b>p",
+        "only_uk": 0
+      },
+      {
+        "name": "bit",
+        "html": "b<b>i</b>t",
+        "ph": "b<b>ɪ</b>t",
+        "only_uk": 0
+      },
+      {
+        "name": "gym",
+        "html": "g<b>y</b>m",
+        "ph": "dʒ<b>ɪ</b>m",
+        "only_uk": 0
+      }
+    ]
+  },
+  "Vowels_3a": {
+    "ph": "ʊ",
+    "similar": "悟",
+    "words": [
+      {
+        "name": "put",
+        "html": "p<b>u</b>t",
+        "ph": "p<b>ʊ</b>t",
+        "only_uk": 0
+      },
+      {
+        "name": "took",
+        "html": "t<b>oo</b>k",
+        "ph": "t<b>ʊ</b>k",
+        "only_uk": 0
+      },
+      {
+        "name": "could",
+        "html": "c<b>ou</b>ld",
+        "ph": "k<b>ʊ</b>d",
+        "only_uk": 1
+      }
+    ]
+  },
+  "Vowels_4a": {
+    "ph": "uː",
+    "similar": "物(拖长)",
+    "words": [
+      {
+        "name": "boot",
+        "html": "b<b>oo</b>t",
+        "ph": "b<b>uː</b>t",
+        "only_uk": 0
+      },
+      {
+        "name": "food",
+        "html": "f<b>oo</b>d",
+        "ph": "f<b>uː</b>d",
+        "only_uk": 0
+      },
+      {
+        "name": "rude",
+        "html": "r<b>u</b>de",
+        "ph": "r<b>uː</b>d",
+        "only_uk": 0
+      }
+    ]
+  },
+  "Vowels_5a": {
+    "ph": "e",
+    "similar": "哎",
+    "words": [
+      {
+        "name": "bed",
+        "html": "b<b>e</b>d",
+        "ph": "b<b>e</b>d",
+        "only_uk": 0
+      },
+      {
+        "name": "said",
+        "html": "s<b>ai</b>d",
+        "ph": "s<b>e</b>d",
+        "only_uk": 0
+      },
+      {
+        "name": "head",
+        "html": "h<b>ea</b>d",
+        "ph": "h<b>e</b>d",
+        "only_uk": 0
+      }
+    ]
+  },
+  "Vowels_6a": {
+    "ph": "ə",
+    "similar": "饿",
+    "words": [
+      {
+        "name": "better",
+        "html": "bett<b>er</b>",
+        "ph": "ˈbet<b>ə</b>(r)",
+        "only_uk": 1
+      },
+      {
+        "name": "about",
+        "html": "<b>a</b>bout",
+        "ph": "<b>ə</b>ˈbaʊt",
+        "only_uk": 0
+      },
+      {
+        "name": "singer",
+        "html": "sing<b>er</b>",
+        "ph": "ˈsɪŋ<b>ə</b>(r)",
+        "only_uk": 1
+      }
+    ]
+  },
+  "Vowels_7a": {
+    "ph": "ɜː",
+    "similar": "饿(拖长)",
+    "words": [
+      {
+        "name": "bird",
+        "html": "b<b>ir</b>d",
+        "ph": "b<b>ɜː</b>d",
+        "only_uk": 1
+      },
+      {
+        "name": "word",
+        "html": "w<b>or</b>d",
+        "ph": "w<b>ɜː</b>d",
+        "only_uk": 1
+      },
+      {
+        "name": "heard",
+        "html": "h<b>ear</b>d",
+        "ph": "h<b>ɜː</b>d",
+        "only_uk": 1
+      }
+    ]
+  },
+  "Vowels_8a": {
+    "ph": "ɔː",
+    "similar": "哦(拖长)",
+    "words": [
+      {
+        "name": "fork",
+        "html": "f<b>or</b>k",
+        "ph": "f<b>ɔː</b>k",
+        "only_uk": 1
+      },
+      {
+        "name": "more",
+        "html": "m<b>or</b>e",
+        "ph": "m<b>ɔː</b>(r)",
+        "only_uk": 1
+      },
+      {
+        "name": "horse",
+        "html": "h<b>or</b>se",
+        "ph": "h<b>ɔː</b>s",
+        "only_uk": 1
+      }
+    ]
+  },
+  "Vowels_9a": {
+    "ph": "æ",
+    "similar": "啊(嘴张大)",
+    "words": [
+      {
+        "name": "cat",
+        "html": "c<b>a</b>t",
+        "ph": "k<b>æ</b>t",
+        "only_uk": 0
+      },
+      {
+        "name": "flat",
+        "html": "fl<b>a</b>t",
+        "ph": "fl<b>æ</b>t",
+        "only_uk": 0
+      },
+      {
+        "name": "land",
+        "html": "l<b>a</b>nd",
+        "ph": "l<b>æ</b>nd",
+        "only_uk": 0
+      }
+    ]
+  },
+  "Vowels_10a": {
+    "ph": "ʌ",
+    "similar": "啊",
+    "words": [
+      {
+        "name": "cut",
+        "html": "c<b>u</b>t",
+        "ph": "k<b>ʌ</b>t",
+        "only_uk": 0
+      },
+      {
+        "name": "up",
+        "html": "<b>u</b>p",
+        "ph": "<b>ʌ</b>p",
+        "only_uk": 0
+      },
+      {
+        "name": "love",
+        "html": "l<b>o</b>ve",
+        "ph": "l<b>ʌ</b>v",
+        "only_uk": 0
+      }
+    ]
+  },
+  "Vowels_11a": {
+    "ph": "ɑː",
+    "similar": "啊(拖长)",
+    "words": [
+      {
+        "name": "calm",
+        "html": "c<b>al</b>m",
+        "ph": "k<b>ɑː</b>m",
+        "only_uk": 0
+      },
+      {
+        "name": "heart",
+        "html": "h<b>ear</b>t",
+        "ph": "h<b>ɑː</b>t",
+        "only_uk": 1
+      },
+      {
+        "name": "laugh",
+        "html": "l<b>au</b>gh",
+        "ph": "l<b>ɑː</b>f",
+        "only_uk": 1
+      }
+    ]
+  },
+  "Vowels_12a": {
+    "ph": "ɒ",
+    "similar": "哦",
+    "words": [
+      {
+        "name": "hot",
+        "html": "h<b>o</b>t",
+        "ph": "h<b>ɒ</b>t",
+        "only_uk": 1
+      },
+      {
+        "name": "what",
+        "html": "wh<b>a</b>t",
+        "ph": "w<b>ɒ</b>t",
+        "only_uk": 1
+      },
+      {
+        "name": "want",
+        "html": "w<b>a</b>nt",
+        "ph": "w<b>ɒ</b>nt",
+        "only_uk": 1
+      }
+    ]
+  },
+  "Dipthongs_1a": {
+    "ph": "ɪə",
+    "similar": "一饿(儿)",
+    "words": [
+      {
+        "name": "here",
+        "html": "h<b>ere</b>",
+        "ph": "h<b>ɪə</b>(r)",
+        "only_uk": 1
+      },
+      {
+        "name": "near",
+        "html": "n<b>ear</b>",
+        "ph": "n<b>ɪə</b>(r)",
+        "only_uk": 1
+      },
+      {
+        "name": "idea",
+        "html": "id<b>ea</b>",
+        "ph": "aɪˈd<b>ɪə</b>",
+        "only_uk": 1
+      }
+    ]
+  },
+  "Dipthongs_2a": {
+    "ph": "eɪ",
+    "similar": "诶或A(字母)",
+    "words": [
+      {
+        "name": "make",
+        "html": "m<b>a</b>ke",
+        "ph": "m<b>eɪ</b>k",
+        "only_uk": 0
+      },
+      {
+        "name": "weigh",
+        "html": "w<b>eigh</b>",
+        "ph": "w<b>eɪ</b>",
+        "only_uk": 0
+      },
+      {
+        "name": "they",
+        "html": "th<b>ey</b>",
+        "ph": "ð<b>eɪ</b>",
+        "only_uk": 0
+      }
+    ]
+  },
+  "Dipthongs_3a": {
+    "ph": "ʊə",
+    "similar": "五饿(儿)",
+    "words": [
+      {
+        "name": "tour",
+        "html": "t<b>ou</b>r",
+        "ph": "t<b>ʊə</b>(r)",
+        "only_uk": 1
+      },
+      {
+        "name": "cure",
+        "html": "c<b>ure</b>",
+        "ph": "kj<b>ʊə</b>(r)",
+        "only_uk": 1
+      },
+      {
+        "name": "pure",
+        "html": "p<b>ure</b>",
+        "ph": "pj<b>ʊə</b>(r)",
+        "only_uk": 1
+      }
+    ]
+  },
+  "Dipthongs_4a": {
+    "ph": "ɔɪ",
+    "similar": "哦一",
+    "words": [
+      {
+        "name": "boy",
+        "html": "b<b>oy</b>",
+        "ph": "b<b>ɔɪ</b>",
+        "only_uk": 0
+      },
+      {
+        "name": "avoid",
+        "html": "av<b>oi</b>d",
+        "ph": "əˈv<b>ɔɪ</b>d",
+        "only_uk": 0
+      },
+      {
+        "name": "voice",
+        "html": "v<b>oi</b>ce",
+        "ph": "v<b>ɔɪ</b>s",
+        "only_uk": 0
+      }
+    ]
+  },
+  "Dipthongs_5a": {
+    "ph": "əʊ",
+    "similar": "欧或O(字母)",
+    "words": [
+      {
+        "name": "hello",
+        "html": "hell<b>o</b>",
+        "ph": "həˈl<b>əʊ</b>",
+        "only_uk": 1
+      },
+      {
+        "name": "although",
+        "html": "alth<b>ough</b>",
+        "ph": "ɔːlˈð<b>əʊ</b>",
+        "only_uk": 1
+      },
+      {
+        "name": "toast",
+        "html": "t<b>oa</b>st",
+        "ph": "t<b>əʊ</b>st",
+        "only_uk": 1
+      }
+    ]
+  },
+  "Dipthongs_6a": {
+    "ph": "eə",
+    "similar": "哎饿(儿)",
+    "words": [
+      {
+        "name": "where",
+        "html": "w<b>here</b>",
+        "ph": "w<b>eə</b>(r)",
+        "only_uk": 1
+      },
+      {
+        "name": "bear",
+        "html": "b<b>ear</b>",
+        "ph": "b<b>eə</b>(r)",
+        "only_uk": 1
+      },
+      {
+        "name": "hair",
+        "html": "h<b>air</b>",
+        "ph": "h<b>eə</b>(r)",
+        "only_uk": 1
+      }
+    ]
+  },
+  "Dipthongs_7a": {
+    "ph": "aɪ",
+    "similar": "爱或I(字母)",
+    "words": [
+      {
+        "name": "high",
+        "html": "h<b>igh</b>",
+        "ph": "h<b>aɪ</b>",
+        "only_uk": 0
+      },
+      {
+        "name": "eye",
+        "html": "<b>eye</b>",
+        "ph": "<b>aɪ</b>",
+        "only_uk": 0
+      },
+      {
+        "name": "pie",
+        "html": "p<b>ie</b>",
+        "ph": "p<b>aɪ</b>",
+        "only_uk": 0
+      }
+    ]
+  },
+  "Dipthongs_8a": {
+    "ph": "aʊ",
+    "similar": "澳",
+    "words": [
+      {
+        "name": "how",
+        "html": "h<b>ow</b>",
+        "ph": "h<b>aʊ</b>",
+        "only_uk": 0
+      },
+      {
+        "name": "house",
+        "html": "h<b>ou</b>se",
+        "ph": "h<b>aʊ</b>s",
+        "only_uk": 1
+      },
+      {
+        "name": "cloud",
+        "html": "cl<b>ou</b>d",
+        "ph": "kl<b>aʊ</b>d",
+        "only_uk": 0
+      }
+    ]
+  },
+  "Consonants_1a": {
+    "ph": "p",
+    "similar": "泼",
+    "words": [
+      {
+        "name": "pack",
+        "html": "<b>p</b>ack",
+        "ph": "<b>p</b>æk",
+        "only_uk": 0
+      },
+      {
+        "name": "pin",
+        "html": "<b>p</b>in",
+        "ph": "<b>p</b>ɪn",
+        "only_uk": 0
+      },
+      {
+        "name": "happen",
+        "html": "ha<b>pp</b>en",
+        "ph": "ˈhæ<b>p</b>ən",
+        "only_uk": 0
+      }
+    ]
+  },
+  "Consonants_2a": {
+    "ph": "b",
+    "similar": "播",
+    "words": [
+      {
+        "name": "back",
+        "html": "<b>b</b>ack",
+        "ph": "<b>b</b>æk",
+        "only_uk": 0
+      },
+      {
+        "name": "bin",
+        "html": "<b>b</b>in",
+        "ph": "<b>b</b>ɪn",
+        "only_uk": 0
+      },
+      {
+        "name": "cab",
+        "html": "ca<b>b</b>",
+        "ph": "kæ<b>b</b>",
+        "only_uk": 0
+      }
+    ]
+  },
+  "Consonants_3a": {
+    "ph": "t",
+    "similar": "特",
+    "words": [
+      {
+        "name": "tie",
+        "html": "<b>t</b>ie",
+        "ph": "<b>t</b>aɪ",
+        "only_uk": 0
+      },
+      {
+        "name": "to",
+        "html": "<b>t</b>o",
+        "ph": "<b>t</b>u",
+        "only_uk": 1
+      },
+      {
+        "name": "hotter",
+        "html": "ho<b>tt</b>er",
+        "ph": "ˈhɒ<b>t</b>ə",
+        "only_uk": 1
+      }
+    ]
+  },
+  "Consonants_4a": {
+    "ph": "d",
+    "similar": "得",
+    "words": [
+      {
+        "name": "do",
+        "html": "<b>d</b>o",
+        "ph": "<b>d</b>uː",
+        "only_uk": 1
+      },
+      {
+        "name": "die",
+        "html": "<b>d</b>ie",
+        "ph": "<b>d</b>aɪ",
+        "only_uk": 0
+      },
+      {
+        "name": "had",
+        "html": "ha<b>d</b>",
+        "ph": "hə<b>d</b>",
+        "only_uk": 0
+      }
+    ]
+  },
+  "Consonants_5a": {
+    "ph": "tʃ",
+    "similar": "骑",
+    "words": [
+      {
+        "name": "chicken",
+        "html": "<b>ch</b>icken",
+        "ph": "ˈ<b>tʃ</b>ɪkɪn",
+        "only_uk": 0
+      },
+      {
+        "name": "nature",
+        "html": "na<b>t</b>ure",
+        "ph": "ˈneɪ<b>tʃ</b>ə(r)",
+        "only_uk": 1
+      },
+      {
+        "name": "church",
+        "html": "<b>ch</b>ur<b>ch</b>",
+        "ph": "<b>tʃ</b>ɜː<b>tʃ</b>",
+        "only_uk": 1
+      }
+    ]
+  },
+  "Consonants_6a": {
+    "ph": "dʒ",
+    "similar": "急和驾(中间音)",
+    "words": [
+      {
+        "name": "judge",
+        "html": "jud<b>ge</b>",
+        "ph": "<b>dʒ</b>ʌ<b>dʒ</b>",
+        "only_uk": 0
+      },
+      {
+        "name": "larger",
+        "html": "lar<b>g</b>er",
+        "ph": "ˈlɑː<b>dʒ</b>ə",
+        "only_uk": 1
+      },
+      {
+        "name": "gym",
+        "html": "<b>g</b>ym",
+        "ph": "<b>dʒ</b>ɪm",
+        "only_uk": 0
+      }
+    ]
+  },
+  "Consonants_7a": {
+    "ph": "k",
+    "similar": "科",
+    "words": [
+      {
+        "name": "class",
+        "html": "<b>c</b>lass",
+        "ph": "<b>k</b>lɑːs",
+        "only_uk": 1
+      },
+      {
+        "name": "pack",
+        "html": "pa<b>ck</b>",
+        "ph": "pæ<b>k</b>",
+        "only_uk": 0
+      },
+      {
+        "name": "call",
+        "html": "<b>c</b>all",
+        "ph": "<b>k</b>ɔːl",
+        "only_uk": 0
+      }
+    ]
+  },
+  "Consonants_8a": {
+    "ph": "g",
+    "similar": "哥",
+    "words": [
+      {
+        "name": "glass",
+        "html": "<b>g</b>lass",
+        "ph": "<b>g</b>lɑːs",
+        "only_uk": 1
+      },
+      {
+        "name": "girl",
+        "html": "<b>g</b>irl",
+        "ph": "<b>g</b>ɜːl",
+        "only_uk": 1
+      },
+      {
+        "name": "pig",
+        "html": "pi<b>g</b>",
+        "ph": "pɪ<b>g</b>",
+        "only_uk": 0
+      }
+    ]
+  },
+  "Consonants_9a": {
+    "ph": "f",
+    "similar": "福(咬下唇)",
+    "words": [
+      {
+        "name": "foot",
+        "html": "<b>f</b>oot",
+        "ph": "<b>f</b>ʊt",
+        "only_uk": 0
+      },
+      {
+        "name": "few",
+        "html": "<b>f</b>ew",
+        "ph": "<b>f</b>juː",
+        "only_uk": 0
+      },
+      {
+        "name": "phase",
+        "html": "<b>ph</b>ase",
+        "ph": "<b>f</b>eɪz",
+        "only_uk": 0
+      }
+    ]
+  },
+  "Consonants_10a": {
+    "ph": "v",
+    "similar": "物(咬下唇)",
+    "words": [
+      {
+        "name": "van",
+        "html": "<b>v</b>an",
+        "ph": "<b>v</b>æn",
+        "only_uk": 0
+      },
+      {
+        "name": "view",
+        "html": "<b>v</b>iew",
+        "ph": "<b>v</b>juː",
+        "only_uk": 0
+      },
+      {
+        "name": "cover",
+        "html": "co<b>v</b>er",
+        "ph": "ˈkʌ<b>v</b>ə(r)",
+        "only_uk": 1
+      }
+    ]
+  },
+  "Consonants_11a": {
+    "ph": "θ",
+    "similar": "丝(咬舌)",
+    "words": [
+      {
+        "name": "throw",
+        "html": "<b>th</b>row",
+        "ph": "<b>θ</b>rəʊ",
+        "only_uk": 1
+      },
+      {
+        "name": "think",
+        "html": "<b>th</b>ink",
+        "ph": "<b>θ</b>ɪŋk",
+        "only_uk": 0
+      },
+      {
+        "name": "bath",
+        "html": "ba<b>th</b>",
+        "ph": "bɑː<b>θ</b>",
+        "only_uk": 1
+      }
+    ]
+  },
+  "Consonants_12a": {
+    "ph": "ð",
+    "similar": "日(咬舌)",
+    "words": [
+      {
+        "name": "though",
+        "html": "<b>th</b>ough",
+        "ph": "<b>ð</b>əʊ",
+        "only_uk": 1
+      },
+      {
+        "name": "this",
+        "html": "<b>th</b>is",
+        "ph": "<b>ð</b>ɪs",
+        "only_uk": 0
+      },
+      {
+        "name": "father",
+        "html": "fa<b>th</b>er",
+        "ph": "ˈfɑː<b>ð</b>ə(r)",
+        "only_uk": 1
+      }
+    ]
+  },
+  "Consonants_13a": {
+    "ph": "s",
+    "similar": "思",
+    "words": [
+      {
+        "name": "sing",
+        "html": "<b>s</b>ing",
+        "ph": "<b>s</b>ɪŋ",
+        "only_uk": 0
+      },
+      {
+        "name": "sell",
+        "html": "<b>s</b>ell",
+        "ph": "<b>s</b>el",
+        "only_uk": 0
+      },
+      {
+        "name": "ice",
+        "html": "i<b>ce</b>",
+        "ph": "aɪ<b>s</b>",
+        "only_uk": 0
+      }
+    ]
+  },
+  "Consonants_14a": {
+    "ph": "z",
+    "similar": "日(咧嘴)",
+    "words": [
+      {
+        "name": "zoo",
+        "html": "<b>z</b>oo",
+        "ph": "<b>z</b>uː",
+        "only_uk": 0
+      },
+      {
+        "name": "shoes",
+        "html": "shoe<b>s</b>",
+        "ph": "ʃuː<b>z</b>",
+        "only_uk": 0
+      },
+      {
+        "name": "lazy",
+        "html": "la<b>z</b>y",
+        "ph": "ˈleɪ<b>z</b>i",
+        "only_uk": 0
+      }
+    ]
+  },
+  "Consonants_15a": {
+    "ph": "ʃ",
+    "similar": "夕",
+    "words": [
+      {
+        "name": "shoe",
+        "html": "<b>sh</b>oe",
+        "ph": "<b>ʃ</b>uː",
+        "only_uk": 0
+      },
+      {
+        "name": "fish",
+        "html": "fi<b>sh</b>",
+        "ph": "fɪ<b>ʃ</b>",
+        "only_uk": 0
+      },
+      {
+        "name": "nation",
+        "html": "na<b>t</b>ion",
+        "ph": "ˈneɪ<b>ʃ</b>n",
+        "only_uk": 0
+      }
+    ]
+  },
+  "Consonants_16a": {
+    "ph": "ʒ",
+    "similar": "日(圆唇)",
+    "words": [
+      {
+        "name": "measure",
+        "html": "mea<b>s</b>ure",
+        "ph": "ˈme<b>ʒ</b>ə(r)",
+        "only_uk": 1
+      },
+      {
+        "name": "vision",
+        "html": "vi<b>si</b>on",
+        "ph": "ˈvɪ<b>ʒ</b>n",
+        "only_uk": 0
+      },
+      {
+        "name": "leisure",
+        "html": "lei<b>s</b>ure",
+        "ph": "ˈle<b>ʒ</b>ə(r)",
+        "only_uk": 1
+      }
+    ]
+  },
+  "Consonants_17a": {
+    "ph": "m",
+    "similar": "木(鼻音)",
+    "words": [
+      {
+        "name": "man",
+        "html": "<b>m</b>an",
+        "ph": "<b>m</b>æn",
+        "only_uk": 0
+      },
+      {
+        "name": "camera",
+        "html": "ca<b>m</b>era",
+        "ph": "ˈkæ<b>m</b>ərə",
+        "only_uk": 0
+      },
+      {
+        "name": "room",
+        "html": "roo<b>m</b>",
+        "ph": "ruː<b>m</b>",
+        "only_uk": 0
+      }
+    ]
+  },
+  "Consonants_18a": {
+    "ph": "n",
+    "similar": "呢(鼻音)",
+    "words": [
+      {
+        "name": "sun",
+        "html": "su<b>n</b>",
+        "ph": "sʌ<b>n</b>",
+        "only_uk": 0
+      },
+      {
+        "name": "know",
+        "html": "<b>kn</b>ow",
+        "ph": "<b>n</b>əʊ",
+        "only_uk": 1
+      },
+      {
+        "name": "never",
+        "html": "<b>n</b>ever",
+        "ph": "ˈ<b>n</b>evə(r)",
+        "only_uk": 1
+      }
+    ]
+  },
+  "Consonants_19a": {
+    "ph": "ŋ",
+    "similar": "嗯(鼻音)",
+    "words": [
+      {
+        "name": "sing",
+        "html": "si<b>ng</b>",
+        "ph": "sɪ<b>ŋ</b>",
+        "only_uk": 0
+      },
+      {
+        "name": "thing",
+        "html": "thi<b>ng</b>",
+        "ph": "θɪ<b>ŋ</b>",
+        "only_uk": 0
+      },
+      {
+        "name": "going",
+        "html": "goi<b>ng</b>",
+        "ph": "ˈɡəʊɪ<b>ŋ</b>",
+        "only_uk": 1
+      }
+    ]
+  },
+  "Consonants_20a": {
+    "ph": "h",
+    "similar": "喝和哈(中间音)",
+    "words": [
+      {
+        "name": "hot",
+        "html": "<b>h</b>ot",
+        "ph": "<b>h</b>ɒt",
+        "only_uk": 1
+      },
+      {
+        "name": "hill",
+        "html": "<b>h</b>ill",
+        "ph": "<b>h</b>ɪl",
+        "only_uk": 0
+      },
+      {
+        "name": "heavy",
+        "html": "<b>h</b>eavy",
+        "ph": "ˈ<b>h</b>evi",
+        "only_uk": 0
+      }
+    ]
+  },
+  "Consonants_21a": {
+    "ph": "l",
+    "similar": "落和儿(中间音)",
+    "words": [
+      {
+        "name": "lot",
+        "html": "<b>l</b>ot",
+        "ph": "<b>l</b>ɒt",
+        "only_uk": 1
+      },
+      {
+        "name": "love",
+        "html": "<b>l</b>ove",
+        "ph": "<b>l</b>ʌv",
+        "only_uk": 0
+      },
+      {
+        "name": "little",
+        "html": "<b>l</b>itt<b>le</b>",
+        "ph": "ˈ<b>l</b>ɪt<b>l</b>",
+        "only_uk": 0
+      }
+    ]
+  },
+  "Consonants_22a": {
+    "ph": "r",
+    "similar": "入",
+    "words": [
+      {
+        "name": "red",
+        "html": "<b>r</b>ed",
+        "ph": "<b>r</b>ed",
+        "only_uk": 0
+      },
+      {
+        "name": "hurry",
+        "html": "hu<b>rr</b>y",
+        "ph": "ˈhʌ<b>r</b>i",
+        "only_uk": 1
+      },
+      {
+        "name": "write",
+        "html": "<b>wr</b>ite",
+        "ph": "<b>r</b>aɪt",
+        "only_uk": 0
+      }
+    ]
+  },
+  "Consonants_23a": {
+    "ph": "w",
+    "similar": "物",
+    "words": [
+      {
+        "name": "wet",
+        "html": "<b>w</b>et",
+        "ph": "<b>w</b>et",
+        "only_uk": 0
+      },
+      {
+        "name": "walk",
+        "html": "<b>w</b>alk",
+        "ph": "<b>w</b>ɔːk",
+        "only_uk": 0
+      },
+      {
+        "name": "work",
+        "html": "<b>w</b>ork",
+        "ph": "<b>w</b>ɜːk",
+        "only_uk": 1
+      }
+    ]
+  },
+  "Consonants_24a": {
+    "ph": "j",
+    "similar": "医和爷(中间音)",
+    "words": [
+      {
+        "name": "yet",
+        "html": "<b>y</b>et",
+        "ph": "<b>j</b>et",
+        "only_uk": 0
+      },
+      {
+        "name": "usual",
+        "html": "<b>u</b>sual",
+        "ph": "ˈ<b>j</b>uːʒuəl",
+        "only_uk": 0
+      },
+      {
+        "name": "queue",
+        "html": "q<b>u</b>eue",
+        "ph": "k<b>j</b>uː",
+        "only_uk": 0
+      }
+    ]
+  }
+}
